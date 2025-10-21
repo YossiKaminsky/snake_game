@@ -24,7 +24,6 @@ Eat food, grow your snake, and try to beat your high score — all in one window
 ├── food.py           # Food class: random position generator
 ├── scoreboard.py     # Score tracking and high score handling
 ├── data.txt          # Stores the highest score
-├── img.jpg           # Game preview image
 └── README.md         # Documentation file
 ```
 
