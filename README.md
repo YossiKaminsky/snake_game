@@ -3,8 +3,6 @@
 A modern take on the classic **Snake Game**, built entirely with **Python’s Turtle Graphics** module.
 Eat food, grow your snake, and try to beat your high score — all in one window!
 
-![Game Preview](img.jpg)
-
 ---
 
 ## 🎮 Features
@@ -78,13 +76,5 @@ Eat food, grow your snake, and try to beat your high score — all in one window
 * Introduce levels or speed increase over time.
 * Add a pause/resume feature.
 * Create a main menu with difficulty settings.
-
----
-
-## 🧑‍💻 Author
-
-**Yossi Kaminski**
-📍 Based in Israel
-💬 Interested in coding, AI, and interactive games
 
 ---
